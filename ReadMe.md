@@ -838,7 +838,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 
-**Your Name** - [@yourusername](https://twitter.com/yourusername)
+**Youssef** - [@Youssef]([https://twitter.com/yourusername](https://www.linkedin.com/in/youssef-el-azab-054348356/))
 
 Project Link: [https://github.com/yourusername/social-media-platform](https://github.com/yourusername/social-media-platform)
 
@@ -857,7 +857,7 @@ Project Link: [https://github.com/yourusername/social-media-platform](https://gi
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Youssef**
 
 ⭐ Star this repo if you find it useful!
 
