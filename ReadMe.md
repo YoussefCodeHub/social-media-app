@@ -838,10 +838,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 
-**Youssef** - [Youssef]([https://www.linkedin.com/in/youssef-el-azab-054348356])
-
-Project Link: [https://github.com/yourusername/social-media-platform](https://github.com/yourusername/social-media-platform)
-
+- **Linkid**: https://www.linkedin.com/in/youssef-el-azab-054348356/
+- **GitHub**: [@YoussefCodeHub](https://github.com/YoussefCodeHub)
 ---
 
 ## 🙏 Acknowledgments
